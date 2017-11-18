@@ -1,4 +1,4 @@
-#General Introduction of Bitconnectcoin
+#General Introduction of Boxcio
 Boxcio Coin is a secure and energy efficient PoW/PoS coin. Boxcio Coin uses a faster PoW distribution mechanism to distribute the initial coins, then after few days the coin is basically transferred to a pure PoS coin, where the generation of the coin is mainly through the PoS interests.
 
 #Boxcio Coin Specification
